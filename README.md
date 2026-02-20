@@ -1,17 +1,26 @@
-# translateapp_
+🌍 OGTranslate
 
-A new Flutter project.
+🇺🇸 English
+OGTranslate is a modern, fast, and user-friendly translation application developed by Oğuz Rahmet Şevik. It uses the power of Google Translate services to provide seamless translations.
 
-## Getting Started
+⚡ Instant Translation: Translate between dozens of languages.
 
-This project is a starting point for a Flutter application.
+🧠 Smart Detection: Automatic source language identification.
 
-A few resources to get you started if this is your first Flutter project:
+🔊 Text-to-Speech: Listen to translations with high-quality voice.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+🇹🇷 Türkçe
+OGTranslate, Oğuz Rahmet Şevik tarafından geliştirilmiş, şıklığı ve hızı bir araya getiren bir çeviri uygulamasıdır.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚡ Hızlı Çeviri: Onlarca dil arasında anlık geçiş.
+
+🧠 Akıllı Algılama: Otomatik dil tanıma motoru.
+
+🔊 Sesli Okuma: Çevirileri yüksek kalitede sesli dinleme.
+
+🛠 Tech Stack / Teknolojiler
+Framework: Flutter & Dart
+
+UI Design: Material 3
+
+Developer: Oğuz Rahmet Şevik
